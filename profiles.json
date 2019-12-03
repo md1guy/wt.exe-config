@@ -7,7 +7,7 @@
         {
             "guid": "{588957ed-27a7-4539-a89f-437b001835a0}",
             "name": "git bash",
-            "commandline": "%ProgramFiles%\\Git\\bin\\bash.exe --login -i",
+            "commandline": "%ProgramFiles%\\Git\\bin\\bash.exe --cd-to-home --login -i",
             "hidden": false,
             "icon": "%ProgramFiles%\\Git\\mingw64\\share\\git\\git-for-windows.ico",
             "fontFace": "Source Code Pro",
@@ -16,7 +16,7 @@
             "padding": "0, 0, 0, 0",
             "snapOnInput": true,
             "useAcrylic": true,
-            "acrylicOpacity": 0.75,
+            "acrylicOpacity": 0.85,
             "colorScheme": "_One Half Dark",
             "cursorShape": "bar"
         },
