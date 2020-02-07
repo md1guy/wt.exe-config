@@ -62,5 +62,9 @@
             "brightWhite": "#DCDFE4"
         }
     ],
-    "keybindings": []
+    "keybindings": [
+        { "command": "prevTab", "keys": [ "shift+j" ] },
+        { "command": "nextTab", "keys": [ "shift+k" ] },
+        { "command": "closePane", "keys": [ "ctrl+w" ] }
+    ]
 }
