@@ -66,7 +66,7 @@
         { "command": "prevTab", "keys": [ "shift+j" ] },
         { "command": "nextTab", "keys": [ "shift+k" ] },
         { "command": "closePane", "keys": [ "ctrl+w" ] },
-        { "command": "splitHorizontal", "keys": ["ctrl+shift+h"]},
-        { "command": "splitVertical", "keys": ["ctrl+shift+v"]}
+        { "command": "splitHorizontal", "keys": ["ctrl+h"]},
+        { "command": "splitVertical", "keys": ["ctrl+v"]}
     ]
 }
