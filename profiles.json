@@ -63,8 +63,8 @@
         }
     ],
     "keybindings": [
-        { "command": "prevTab", "keys": [ "shift+j" ] },
-        { "command": "nextTab", "keys": [ "shift+k" ] },
+        { "command": "prevTab", "keys": [ "ctrl+j" ] },
+        { "command": "nextTab", "keys": [ "ctrl+k" ] },
         { "command": "closePane", "keys": [ "ctrl+w" ] },
         { "command": "splitHorizontal", "keys": ["ctrl+h"]},
         { "command": "splitVertical", "keys": ["ctrl+v"]}
